@@ -3,5 +3,6 @@
 	echo "test";
 	echo "user";
 	echo "password";
+	echo "github";
 ?>
 
